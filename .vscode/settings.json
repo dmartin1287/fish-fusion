@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onFocusChange",
+    "csharp.inlayHints.parameters.enabled": true,
+    "csharp.inlayHints.parameters.forIndexerParameters": true,
+    "cSpell.caseSensitive": true,
+    "prettier.endOfLine": "auto",
+    "code-runner.clearPreviousOutput": true
+}
